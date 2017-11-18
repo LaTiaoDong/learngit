@@ -1,1 +1,2 @@
-this is the first txt edited on the first time
+this is the first txt edited on the first time\
+add the second line
