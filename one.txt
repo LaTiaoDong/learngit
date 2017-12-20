@@ -3,4 +3,6 @@ add the second line  !!!this is a mistask!!!
 add the thirty line
 Creating a new branch is quick AND simple!!
 test --no-ff
-add on branch dev for test stash
+add on branch dev for test 
+new start
+test xiugai feature1 branch and merge to master 
